@@ -5,8 +5,8 @@ To collect the latest release version of every plugin I make
 ### Effects
 - [ ] Volume
 - [ ] Util
-- [ ] Clip
-- [ ] Texture
+- [ ] Clip `fp001`
+- [ ] Texture `fp000`
 - [ ] Distortion: a VA guitar distortion builder
 - [ ] Vibe Machine: a weird delay effect
 - [ ] FFT Freeze: spectral freeze effect
