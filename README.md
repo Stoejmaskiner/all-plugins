@@ -5,7 +5,7 @@ To collect the latest release version of every plugin I make
 ### Effects
 - [ ] Volume
 - [ ] Util
-- [ ] Clip `fp001` `stoej-fp001-clip`
+- [ ] [Clip](github.com/Stoejmaskiner/clip) `fp001` `stoej-fp001-clip`
 - [ ] Texture `fp000` `stoej-fp000-text`
 - [ ] Distortion: a VA guitar distortion builder
 - [ ] Vibe Machine: a weird delay effect
@@ -21,3 +21,12 @@ To collect the latest release version of every plugin I make
 - [ ] Synth A: fully featured VA synth, with some weird idiosyncrasies
 - [ ] Synth D: fully featured unapologetically digital synth
 - [ ] Granary: mixing wavetable synthesis with granular synthesis
+
+## Tech Stack
+Top to bottom (abstraction wise)
+
+- DevOps: Github Actions, clap-validator, custom Python build automaticion
+- GUI: Vizia
+- DSP: FunDSP
+- VST3/CLAP Framework: NIH-plug
+- Programming Language: Rust
