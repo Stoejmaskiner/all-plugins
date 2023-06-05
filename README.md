@@ -5,7 +5,7 @@ To collect the latest release version of every plugin I make
 ### Effects
 - [ ] Volume
 - [ ] Util
-- [ ] [Clip](github.com/Stoejmaskiner/clip) `fp001` `stoej-fp001-clip`
+- [ ] [Clip](../clip) `fp001` `stoej-fp001-clip`
 - [ ] Texture `fp000` `stoej-fp000-text`
 - [ ] Distortion: a VA guitar distortion builder
 - [ ] Vibe Machine: a weird delay effect
